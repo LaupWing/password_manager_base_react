@@ -1,4 +1,4 @@
-import Search from '@/components/Search'
+import Search from '@/components/Icons/Search'
 import React from 'react'
 import Item from './Item/Item'
 
